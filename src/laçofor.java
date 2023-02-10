@@ -1,4 +1,4 @@
- package laçosJava;
+ package lacosJava;
 
 import java.util.Scanner;
 
