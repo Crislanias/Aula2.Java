@@ -8,7 +8,9 @@ public class atividade1 {
 		
 		
 		Scanner leia = new Scanner(System.in);
-//		Variáveis		
+//		Variáveis
+		
+		
 		int x, resposta;
 		
 		for( x=1000 ; x<=1999; x++) {

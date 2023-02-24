@@ -33,5 +33,23 @@ public class atividade2 {
     System.out.println("Você digitou -99 e saiu do loop!");
     System.out.println("Pessoas com menos de 21 anos: " + somamenos21);
     System.out.println("Pessoas com mais de 50 anos: "+ somais);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
-		}}
+	
+	
+	}
+	
+	
+  }
+
+
+
